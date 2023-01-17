@@ -1,0 +1,38 @@
+.nav-link {
+	color: green !important;
+}
+
+.form-control {
+	color: whitesmoke !important;
+}
+
+.form-select {
+	color: white !important;
+}
+
+.nav-tabs .nav-link {
+	border-left: none !important;
+	border-right: none !important;
+	border-bottom: 1px solid whitesmoke !important;
+	border-radius: 0% !important;
+}
+
+.form-control:focus,
+.form-select:focus {
+	border-color: white !important;
+	box-shadow: none !important;
+}
+
+.response-div > h3 {
+	color: green !important;
+}
+
+.fc-white {
+	color: white !important;
+}
+
+#api-data {
+	background-color: black;
+	padding: 1rem;
+	margin-left: 0ch;
+}
